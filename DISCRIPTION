@@ -1,0 +1,33 @@
+# Power BI Sales Dashboard
+
+**Writing**
+
+## Project Overview
+
+Designed an interactive Power BI dashboard to analyze sales performance and business insights from 769M+ sales data.
+
+## Key Features
+
+* KPI cards for Revenue, Profit, Orders, Growth
+* Region-wise and Category-wise sales analysis
+* Monthly sales trends and forecasting
+* Interactive slicers for dynamic filtering
+* Customer and product performance insights
+
+## Tools Used
+
+* Power BI
+* Power Query
+* SQL
+* Excel
+
+## My Contribution
+
+* Cleaned and transformed raw data using Power Query
+* Connected and queried data using SQL
+* Built interactive dashboard with DAX measures and visualizations
+* Generated business insights for decision making
+
+## Dashboard Preview
+
+
